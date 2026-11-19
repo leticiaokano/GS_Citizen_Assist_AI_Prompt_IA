@@ -1,0 +1,34 @@
+TITULO: Cadastro de Pontos de Coleta de Óleo de Cozinha Usado
+DATA_PUBLICACAO: 2026-11-10
+TEMA: Localização e funcionamento dos pontos de coleta
+
+PREFEITURA MUNICIPAL DE SANTA AURORA
+SECRETARIA MUNICIPAL DE MEIO AMBIENTE
+
+CADASTRO DE PONTOS DE COLETA DE ÓLEO DE COZINHA USADO
+
+A Secretaria Municipal de Meio Ambiente apresenta a relação dos pontos de recebimento de óleo de cozinha usado no município de Santa Aurora, com a situação registrada em 10 de novembro de 2026. Alterações posteriores de funcionamento são informadas por comunicado específico da Secretaria e prevalecem sobre este cadastro.
+
+PONTO DE COLETA PRAÇA DAS FLORES
+Endereço: Rua das Acácias, 100, Centro, Santa Aurora.
+Situação em 10/11/2026: FUNCIONANDO NORMALMENTE.
+Horário: segunda a sexta-feira, das 8h às 17h.
+
+PONTO DE COLETA CENTRO COMUNITÁRIO IPÊ
+Endereço: Rua das Paineiras, 45, Jardim Primavera, Santa Aurora.
+Situação em 10/11/2026: FUNCIONANDO NORMALMENTE.
+Horário: segunda a sexta-feira, das 8h às 16h.
+O local recebe óleo de cozinha usado acondicionado em garrafas PET bem fechadas.
+
+PONTO DE COLETA PARQUE DAS ÁGUAS
+Endereço: Avenida do Horizonte, 1200, Bairro Lago Azul, Santa Aurora.
+Situação em 10/11/2026: FUNCIONANDO NORMALMENTE.
+Horário: sábados, das 8h às 12h.
+O recebimento é destinado aos moradores que entregarem o material devidamente acondicionado.
+
+CONDIÇÕES ESPECÍFICAS DE RECEBIMENTO
+Uma condição específica do Ponto de Coleta Parque das Águas estabelece o limite de cinco litros de óleo usado por morador a cada semana. Esse limite foi definido para organizar o armazenamento e a capacidade de recebimento do local.
+
+Os moradores devem verificar a situação do ponto antes de sair de casa. Em caso de dúvida, podem procurar a Secretaria Municipal de Meio Ambiente pelo atendimento fictício da Prefeitura.
+
+Este documento é uma simulação acadêmica. Os endereços, locais, horários e comunicados foram inventados para o desenvolvimento do projeto Aurora Circular.
