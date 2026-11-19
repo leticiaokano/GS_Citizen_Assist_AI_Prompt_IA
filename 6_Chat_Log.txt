@@ -1,0 +1,12 @@
+6_Chat_Log.txt — uso de IA (GS2026.2, Aurora Circular)
+
+Ferramentas: Claude (Anthropic) e ChatGPT
+
+Uso declarado:
+- Revisão do notebook anterior do grupo (bugs, datas inconsistentes, avaliação RAGAS ausente).
+- Geração de uma versão do código alinhada ao briefing (estrutura das seções, LCEL, agente, guardrails, Gradio, RAGAS).
+- Reorganização dos documentos da base em 3 arquivos e correção de datas (base derivada do material original do grupo).
+- Revisão crítica de um notebook gerado por outra IA, com lista de erros em relação à rubrica.
+
+Não usado pela IA: os ground truths das 8 perguntas (são do grupo). [CONFIRMAR e descrever como foram escritos]
+Os resultados do RAGAS devem ser os medidos pelo notebook, não estimados.
